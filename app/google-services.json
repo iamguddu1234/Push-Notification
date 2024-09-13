@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947202477705",
+    "project_id": "pushnotification-ad87b",
+    "storage_bucket": "pushnotification-ad87b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947202477705:android:5e95263c71d409cf1e8058",
+        "android_client_info": {
+          "package_name": "com.example.databindingexamples"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR4PDUdhxYupSU7CDETlmMqN3BbjbHm5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
